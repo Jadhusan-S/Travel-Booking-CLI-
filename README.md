@@ -7,8 +7,7 @@ CLI system for Travel Booking
   | `2. Python`        | 
   | `3. Python using oop`         |
 
+## Install the Python requirements:
+-pip install -r req.txt
+
 Have A NiceDAy! :)
-
-Install the Python requirements:
-
-pip install -r req.txt
