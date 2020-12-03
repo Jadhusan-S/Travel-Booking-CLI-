@@ -11,4 +11,4 @@ Have A NiceDAy! :)
 
 Install the Python requirements:
 
-pip install -r requirements.txt
+pip install -r req.txt
